@@ -22,3 +22,5 @@ To use the simulator, configure the simulation parameters in the main.cpp file, 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Let me know if you have any other questions!
+
+###### Please note I never use C++ so any and all critiques are appreciated :)
